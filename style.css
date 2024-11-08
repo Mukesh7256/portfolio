@@ -1,0 +1,28 @@
+*{
+    margin: 0;
+    padding: 0;
+    background: blue;
+}
+
+.nav{
+    display: flex;
+    justify-content: space-between;
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-bottom: 30px;
+}
+
+.image{
+    margin-top: 30px;
+    width: 20%;
+    position: absolute;
+    height: 50%;
+}
+
+h1{
+    text-align: center;
+    font-size: 30px;
+    font-weight: 600;
+    text-c
+}
+
